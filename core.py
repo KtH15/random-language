@@ -1,5 +1,5 @@
 import random
-chars = 'ABCDEFGHIJKLMONPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 def random_lang ():
     code_input = str(input("~$ "))
     result = ""
